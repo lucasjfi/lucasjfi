@@ -185,7 +185,7 @@ Atualmente meu foco está em:
 <table>
   <tr>
     <td width="30%" align="center">
-      <img src="./assets/jfi-logo.png" width="190" />
+      <img src="/assets/jfi-logo.jpg" width="190" />
       <br>
       <sub>Logo JFI</sub>
     </td>
