@@ -1,7 +1,4 @@
 <div align="center">
-
-<img width="100%" src="./assets/jfi-logo.png" />
-
 <br><br>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=21&duration=2700&pause=900&center=true&vCenter=true&width=900&lines=Versionando+fontes+ADVPL%2C+TLPP%2C+JS+e+Python;Organizando+solu%C3%A7%C3%B5es+para+Protheus%2C+Fluig+e+RM;ERP+%2B+Dados+%2B+Automa%C3%A7%C3%A3o+%2B+IA;Transformando+rotina+t%C3%A9cnica+em+portf%C3%B3lio" />
